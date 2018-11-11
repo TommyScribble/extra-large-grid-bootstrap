@@ -1,2 +1,2 @@
 # extra-large-grid-bootstrap
-A gird for bootstrap that adds xl and xxl classes
+A grid for bootstrap that extends the grid for larger screens, adding xl and xxl classes
